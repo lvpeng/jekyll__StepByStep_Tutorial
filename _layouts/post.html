@@ -1,0 +1,15 @@
+---
+title: blog detail
+layout: default
+---
+<p>{{page.title}}</p>
+
+<p>{{page.date}} </p>
+
+<p>{{page.creator}} </p>
+
+{%if page.tags %}
+<p>{{page.tags}} </p>
+{% endif %}
+
+{{content}}

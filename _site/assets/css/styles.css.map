@@ -1,0 +1,16 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/_base.scss",
+		"_sass/_layout.scss"
+	],
+	"sourcesContent": [
+		"@import \"_base\";\n\n@import \"_layout\"",
+		"",
+		""
+	],
+	"names": [],
+	"mappings": ""
+}
